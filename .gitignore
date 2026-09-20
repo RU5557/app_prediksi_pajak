@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Hasil Build PyInstaller
+build/
+dist/
+*.spec
+
+# ABAIKAN FILE / FOLDER PRIBADI (Sesuaikan dengan nama folder/file kamu)
+DokumenPribadi/
+Foto/
+*.xlsx
+*.docx
+*.pdf
+# (tambahkan nama file/folder pribadi lainnya di sini)
